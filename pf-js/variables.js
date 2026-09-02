@@ -1,4 +1,4 @@
-/**
+\\wsl.localhost\Ubuntu\home\bios\javascript-71\pf-js\variables.js
  * En java hey tres formas de declarar variables: 
  *  * !existe una forma que ya no se recomiendan su uso
  * !var
